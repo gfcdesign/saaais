@@ -4,7 +4,7 @@
 use<write/Write.scad>
 
 RulerLength=20;// [1:50]
-RulerText="SAAAIS FAF-LR";
+RulerText="";
 FontSize=6;
 TextX=-50;
 TextY=-25;
